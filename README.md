@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Prajapat</h1> <h3 align="center">A passionate Mobile App Developer from India</h3>
 
 🌟 About Me
+
 I'm a passionate Mobile App Developer specializing in:
 
 Swift & SwiftUI: Crafting seamless and intuitive iOS applications.
