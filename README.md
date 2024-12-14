@@ -2,6 +2,7 @@
 
 🌟 About Me
 
+
 I'm a passionate Mobile App Developer specializing in:
 
 Swift & SwiftUI: Crafting seamless and intuitive iOS applications.
@@ -10,15 +11,21 @@ Flutter: Building beautiful, cross-platform mobile apps.
 
 💼 What I Do
 
+
 1.iOS Development: Expert in UIKit, SwiftUI, and third-party library integration.
+
 2.Cross-Platform Development: Proficient in building scalable apps using Flutter.
+
 3.Problem Solving: Skilled in debugging, performance optimization, and ensuring a great user experience.
 
 🚀 Goals
 I aim to:
 
+
 Continuously enhance my mobile development skills.
+
 Contribute to open-source projects and collaborate with fellow developers.
+
 Build impactful apps that improve everyday life.
 
 🌐 Connect with Me
