@@ -5,6 +5,7 @@
 I'm a passionate Mobile App Developer specializing in:
 
 Swift & SwiftUI: Crafting seamless and intuitive iOS applications.
+
 Flutter: Building beautiful, cross-platform mobile apps.
 
 💼 What I Do
