@@ -29,7 +29,7 @@ Contribute to open-source projects and collaborate with fellow developers.
 Build impactful apps that improve everyday life.
 
 🌐 Connect with Me
-<p align="left"> <a href="https://linkedin.com/in/sumit-prajapat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Prajapt" height="30" width="40" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/sumit-prajapat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-prajapat-72a608217" height="30" width="40" /></a> </p>
 
 
 🛠 Languages and Tools
